@@ -1,0 +1,74 @@
+button{
+    padding: 10px;
+    color: white;
+    font-size: 16px;
+    border: none;
+    margin: 5px;
+    transition: 1000ms all ease;
+}
+
+button:hover{
+            transform: scale(1.3);
+}
+
+/* este un selector mixto, donde tenemos etqiueta y clase*/
+        button.sucess {
+            background-color: rgb(31, 231, 31);
+        }
+
+        button.Warning {
+            background-color: rgb(255, 153, 0);
+        }
+
+        button.Danger {
+            background-color: red;
+        }
+                        
+        button.sucess-outline {
+            background-color:  rgb(255, 255, 255);
+            border: 2px dashed rgb(31, 231, 31);
+            color: rgb(31, 231, 31);
+            border-radius: 5px;
+            padding: 7px;
+        }
+
+        button.Warning-outline {
+            background-color: rgb(255, 255, 255);
+            border: 2px solid rgb(255, 153, 0);
+            color: rgb(255, 153, 0);
+            border-radius: 5px;
+            padding: 7px;
+        }
+
+        button.Danger-outline {
+            background-color: rgb(255, 255, 255);
+            border: 2px solid red;
+            color: red;
+            border-radius: 5px;
+            padding: 7px;
+        }
+
+        button.round{
+            border-radius: 25px;
+        }
+
+        button.success-shadow{
+            background-color: rgb(31, 231, 31);
+            border-radius: 5px;
+            border-bottom: 3px solid rgb(6, 196, 6);
+            padding-bottom:7px;
+        }
+
+        button.Warning-shadow{
+            background-color: rgb(255, 153, 0);
+            border-radius: 5px;
+            border-bottom: 3px solid rgb(187, 112, 0);
+            padding: 7px;
+        }
+
+        button.Danger-shadow{
+            background-color: red;
+            border-radius: 5px;
+            border-bottom: 3px solid rgb(112, 0, 0);
+            padding: 7px;
+        }
