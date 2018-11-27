@@ -1,0 +1,41 @@
+
+html
+
+etiquetas <header> van entre comilladas
+
+lang etiqueta y entre comillas su valor, puede ser "es" "en"
+
+En el <head> se definen muchas etiquetas del html
+
+<charset> UTF-8 Estandar lenguaje
+
+<meta> meta information
+
+width ancho
+
+ie=edge
+
+
+ETIQUETA
+
+<A> ANCHOR, ESun ancla que es un hipervinculo
+
+HEADING
+son los titulos a nuestra pagina van desde el h1 al h6
+
+MAIN
+va dentro de body, todo lo que queremos que se vea va dentro de body, MAIN va arriba de todo
+
+DIV
+etiqueta multiproposito (lista, boton, nav)
+
+Paragraph
+Etiqueta P
+
+BUTTON
+
+LISTAS <ul> unordened list <li> list item <ol> ordened list
+
+COMENTARIO
+<!-- aqui va el comentario
+

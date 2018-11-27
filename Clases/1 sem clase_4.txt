@@ -1,0 +1,22 @@
+CSS
+
+Cascading Style Sheets
+
+Colocarlo como archivos separados dentro del html
+
+Nos deja tener organización posterior
+
+Sintaxis
+
+p {color:red;
+}
+
+selector: 3 clases 
+tag,
+
+clase  .class
+
+id  #id
+
+
+

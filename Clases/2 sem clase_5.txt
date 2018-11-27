@@ -1,0 +1,12 @@
+CSS
+
+Cascading Style Sheets
+
+Se compone de Selector, propiedad y su valor
+
+p{
+  color: red;
+}
+
+Existen varios tipos de selectores (tag, class, id)
+

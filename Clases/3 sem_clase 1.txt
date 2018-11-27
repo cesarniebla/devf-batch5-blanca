@@ -1,0 +1,7 @@
+Responsive web design
+
+El diseño cambio debido a los breakpoints (medidas estandares que analizan si es desktop, mobile o tablet)
+
+desktop -1024
+tablet -768
+mobile -320

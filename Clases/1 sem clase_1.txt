@@ -1,0 +1,32 @@
+
+Libreria
+Una herramienta que llevan a un resultado pero la hizo alguien mas
+
+Framework
+Conjunto de librerias para resolver un problema especifico
+
+Protocolo
+como los pasos comparten comunicacion
+
+Algoritmo
+Pasos a seguir para solucionar problemas
+
+Servidor
+un equipo que da informacion, datos correo
+
+Cliente
+Usuario, objeto, que consume el servicio que da el servidor
+
+
+OSI MODEL 7 capas de comunicacion del protocolo
+vs code
+
+perfil stackoverflow
+
+GIT y Github crear perfil
+
+sourcetree- ramificaciones
+
+
+
+

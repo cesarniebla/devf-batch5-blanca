@@ -1,0 +1,70 @@
+
+terminal GIT BASH (linux, mac)
+
+PWD - ubicacion, en que directorio estoy
+
+LS - lista de todas las cosas que tengo ahi
+
+ls -al  - lista con mayor detalle (ls espacio al) archivos secretos
+
+ls -l archivos normales o comunes
+
+cd - Documents change directory
+
+cd ..  - vamos una carpeta atras
+
+
+cd Documents
+
+cd dev.f
+
+git init
+
+git add html
+
+
+
+INICIAR GIT
+git init
+
+git status
+
+git add html -- para agregar la carpeta donde esta contenido nuestro index
+
+git config --list   para saber lo que tenemos en la cuenta
+
+git config --global user.name "nombre de usuario"
+
+git config --global.email "correo electronico"
+
+git commit -m "comentario que queramos poner"        hacer un commit, 
+
+git diff   se ven las diferencias de un archivo y otro
+
+
+<form>  forma, inputs de texto que van desde un usuario hacia un servidor
+
+	<input type>
+	<textarea name>
+	<select name>
+
+input type="text" placeholder="user" para poner un password y una cajita de texto
+
+crear rama en visual estudio
+
+en terminal:
+
+git status
+
+git add html/nombrearchivo.html
+
+git status
+
+git commit -m"nombrearchivo"
+
+git push origin master
+
+
+
+
+
